@@ -1,8 +1,4 @@
-chatLocationData = {
-    accountName: "demo",
-    domain: "demo.spitch.chat",
-    location: "Raiffeisen"
-  };
+
   function changeScript(){
     sessionStorage.locValue='FAQKanton';
     sessionStorage.chatBtn='https://demo.spitch.chat/button.php?location=FAQKanton'
